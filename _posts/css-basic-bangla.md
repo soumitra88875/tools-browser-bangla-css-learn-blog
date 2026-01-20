@@ -177,6 +177,7 @@ HTML + CSS
 ```
 style.css:
 
+```html
 body {  
 background: #f0f0f0;  
 }  
@@ -187,6 +188,7 @@ p {
 font-size: 18px;  
 color: #444;  
 }
+```
 
 এটা ব্রাউজারে চালালে তুমি দেখতে পাবে HTML এর টেক্সট সুন্দরভাবে স্টাইল হয়েছে।
 
